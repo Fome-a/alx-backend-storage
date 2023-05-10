@@ -1,0 +1,2 @@
+//Script lists out all docuumnet in a collection
+db.school.find()
